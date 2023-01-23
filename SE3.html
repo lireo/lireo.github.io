@@ -114,7 +114,7 @@ function draw() {
 
 		svg.selectAll('path').remove()
 
-		d3.json("S3.json", function(error, dataset)  {
+		d3.json("SE3.json", function(error, dataset)  {
 				if (error) throw error;
 
 				root = d3.hierarchy(dataset);
