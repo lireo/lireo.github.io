@@ -1,44 +1,12 @@
-## Welcome to Lireo GitHub Pages
+# Interactive sunbursts
 
-You can use the [editor on GitHub](https://github.com/lireo/lireo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lireo/lireo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-
-### test sunburst visualisation
-
-#### first
-
-[EV3_vs_C3h](reactomeGSA_padog_test_EV3h_vs_C3h_sunburst.html)
+[EC3](https://lireo.github.io/EC3.html)
+[EC4](https://lireo.github.io/EC4.html)
+[EC8](https://lireo.github.io/EC8.html)
+[EC24](https://lireo.github.io/EC24.html)
+[SC3](https://lireo.github.io/SC3.html)
+[SC34](https://lireo.github.io/SC34.html)
+[SC38](https://lireo.github.io/SC38.html)
+[SC324](https://lireo.github.io/SC324.html)
+[SE3](https://lireo.github.io/SE3.html)
+[SE324](https://lireo.github.io/SE324.html)
